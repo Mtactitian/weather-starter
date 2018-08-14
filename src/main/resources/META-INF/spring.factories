@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=com.alexb.weather.configuration.WeatherValuePostProcessor
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.alexb.weather.WeatherConfiguration
